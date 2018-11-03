@@ -1,7 +1,9 @@
 ---
 title: "Seattle weather Twitter"
 author: "Péter Rácz"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
